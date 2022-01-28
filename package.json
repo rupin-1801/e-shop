@@ -1,0 +1,34 @@
+{
+  "name": "main",
+  "version": "1.0.0",
+  "description": "server package.json",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rupin-1801/e-shop.git"
+  },
+  "keywords": [
+    "e-shop",
+    "shopping",
+    "website",
+    "all",
+    "everything",
+    "e-commerce",
+    "ecstasy",
+    "purchase",
+    "online-shopping"
+  ],
+  "author": "Rupin bhugra",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rupin-1801/e-shop/issues"
+  },
+  "homepage": "https://github.com/rupin-1801/e-shop#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
