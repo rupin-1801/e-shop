@@ -1,2 +1,2 @@
 # e-shop
-ecstacy version 2
+ecstasy version 2
